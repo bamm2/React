@@ -34,12 +34,10 @@ export const KakaoBtnContainer = styled.div`
 
 export const KakaoBtn = styled.button`
   // position: absolute;
-  left: 25%;
   width: 100%;
   background: url(./assets/Icon/kakao_login_medium_wide.png);
   background-repeat: no-repeat;
-  border: none;
-  top: 50%;
+  // border: none;
   height: 100%;
   background-size: cover;
   border-radius: 10px 10px 10px 10px;
